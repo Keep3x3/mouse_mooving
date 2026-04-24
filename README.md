@@ -17,7 +17,7 @@ Petit utilitaire Windows qui bouge automatiquement la souris toutes les N second
 ## Installation
 
 ```bat
-git clone https://github.com/<votre-utilisateur>/mouse-mover.git](https://github.com/Keep3x3/mouse_mooving.git
+git clone https://github.com/Keep3x3/mouse_mooving.git
 cd mouse_mooving
 ```
 
