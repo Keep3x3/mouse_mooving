@@ -5,6 +5,14 @@ Petit utilitaire Windows qui bouge automatiquement la souris toutes les N second
 ## Prérequis
 
 - Windows 10 ou 11 (PowerShell est inclus par défaut, aucune installation nécessaire).
+- **Git** : non installé par défaut sur Windows. Deux options :
+  - Télécharger l'installeur depuis https://git-scm.com/download/win
+  - Ou via winget (inclus dans Windows 10/11 récents) :
+    ```bat
+    winget install --id Git.Git -e
+    ```
+
+> Si vous ne voulez pas installer Git, vous pouvez télécharger le projet directement depuis GitHub : bouton **Code** → **Download ZIP**, puis extraire le dossier. Sautez alors l'étape `git clone` ci-dessous.
 
 ## Installation
 
